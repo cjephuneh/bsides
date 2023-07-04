@@ -31,7 +31,7 @@ const Navbar = () => {
         isScrolled ? "fixed top-0 left-0 w-full z-10" : ""
       }`}
     >
-      <div className="flex items-center flex-shrink-0 mr-[200px] aboslute ml-auto">
+      <div className="flex items-center flex-shrink-0 mr-[200px] aboslute ml-5">
         <img
           src={Logo}
           alt='logo'
@@ -103,6 +103,8 @@ const Navbar = () => {
               Code of Conduct
             </h1>
           </a>
+          
+          
         </div>
       </div>
     </nav>
