@@ -47,7 +47,7 @@ function Home() {
         </p>
         <p className="text-2xl text-gray-500 font-bold mb-4">
           Diversity and Inclusion / Financial Aid Scholarship:
-          <a href="#" className="ml-2 font-normal text-blue-500 underline">
+          <a href="https://www.eventbrite.com/e/bsides-nairobi-2021-tickets-166005001405" className="ml-2 font-normal text-blue-500 underline">
             Apply Now
           </a>
         </p>
