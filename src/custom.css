@@ -1,0 +1,31 @@
+@media (max-width: 768px) {
+    .h-[400px] {
+      position: relative;
+      height: auto;
+    }
+  
+    .h-screen {
+      height: auto;
+    }
+  
+    .text-6xl {
+      font-size: 4rem;
+    }
+  
+    .ml-[550px] {
+      margin-left: 1rem;
+    }
+  
+    .ml-[600px] {
+      margin-left: 1rem;
+    }
+  
+    .ml-[520px] {
+      margin-left: 1rem;
+    }
+  
+    .ml-[755px] {
+      margin-left: 1rem;
+    }
+  }
+  
