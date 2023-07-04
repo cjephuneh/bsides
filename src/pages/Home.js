@@ -99,7 +99,7 @@ function Home() {
           <p className="text-xl leading-7 mb-8 ml-8 block">
             To Help us impact the community through sponsorship
             <span className="ml-2 font-normal">
-              <a href="#" className="text-blue-500 underline">
+              <a href="https://www.eventbrite.com/e/bsides-nairobi-2021-tickets-166005001405" className="text-blue-500 underline">
                 click here
               </a>
             </span>

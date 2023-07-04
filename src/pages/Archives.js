@@ -68,7 +68,7 @@ function Archives() {
             To Help us impact the community through sponsorship 
             
             <span class="ml-2 font-normal">
-            <a href="#" class="text-blue-500 underline">
+            <a href="https://www.eventbrite.com/e/bsides-nairobi-2021-tickets-166005001405" class="text-blue-500 underline">
             click here
             </a>
           </span>
