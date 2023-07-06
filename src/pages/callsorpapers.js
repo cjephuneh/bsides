@@ -27,7 +27,7 @@ function CFP() {
           Notifications will be sent to Applicants: 30 August - 5 September, 2023
         </span>
         <button className="bg-green-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded mt-4">
-          <a href="https://www.eventbrite.com/e/bsides-nairobi-2021-tickets-166005001405" className="text-gray-100 text-lg leading-none">
+          <a href="https://www.papercall.io/bsidesnrb23" className="text-gray-100 text-lg leading-none">
             Register Now
           </a>
         </button>
