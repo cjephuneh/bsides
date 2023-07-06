@@ -1,7 +1,7 @@
 import React from 'react';
 import Footer from './Footer';
-import Sponsor from "../assets/shehacks.png"
-import AfriHackon from '../assets/africahackon.png'
+// import Sponsor from "../assets/shehacks.png"
+// import AfriHackon from '../assets/africahackon.png'
 import backgroundImage from '../assets/nairobi-kenya-skyline-black_1.png';
 
 function Archives() {
