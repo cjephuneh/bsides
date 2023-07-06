@@ -18,11 +18,11 @@ function Home() {
             <span className="text-white">NAIROBI</span>
           </h1>
         </div>
-        <div className="absolute mb-[470px] inset-x-0 bottom-8 text-white text-center">
+        {/* <div className="absolute mb-[470px] inset-x-0 bottom-8 text-white text-center">
           <p className="text-2xl">
             Security BSides is a not-for-profit, community-driven event built for and by members of the information security community.
           </p>
-        </div>
+        </div> */}
       </div>
 
       <div className="bg-white p-8 mx-4 md:mx-[200px] mt-10">
