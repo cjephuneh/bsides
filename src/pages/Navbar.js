@@ -62,7 +62,7 @@ const Navbar = () => {
           isMenuOpen ? "block" : "hidden"
         } lg:flex lg:items-center lg:w-auto`}
       >
-        <div className="text-lg mr-[950px] lg:flex-grow">
+        <div className="text-lg mr-[500px] lg:flex-grow">
           <a href="/">
             <h1 className="block mt-4 lg:inline-block lg:mt-0 text-black hover:text-red-500  mr-4">
               Home
