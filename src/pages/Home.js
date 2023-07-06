@@ -57,7 +57,10 @@ function Home() {
         </p>
         <p className="text-2xl text-gray-500 font-bold mb-4">
           CFP and CFT:
-          <span className="ml-2 font-normal">now open</span>
+          <a href="/callforpapers" className="ml-2 font-normal text-blue-500 underline">
+             now open
+          </a>
+          {/* <span className="ml-2 font-normal">now open</span> */}
         </p>
         <p className="text-2xl text-gray-500 font-bold mb-4">
           Tickets:

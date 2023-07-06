@@ -62,7 +62,7 @@ const Navbar = () => {
           isMenuOpen ? "block" : "hidden"
         } lg:flex lg:items-center lg:w-auto`}
       >
-        <div className="text-lg lg:flex-grow">
+        <div className="text-lg mr-[950px] lg:flex-grow">
           <a href="/">
             <h1 className="block mt-4 lg:inline-block lg:mt-0 text-black hover:text-red-500  mr-4">
               Home
@@ -78,21 +78,21 @@ const Navbar = () => {
               Call for Papers
             </h1>
           </a>
-          <a href="/speakers">
+          {/* <a href="/speakers">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500 mr-4">
               Speakers
             </h1>
-          </a>
-          <a href="/schedule">
+          </a> */}
+          {/* <a href="/schedule">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500  mr-4">
               Schedule
             </h1>
-          </a>
-          <a href="/volunteer">
+          </a> */}
+          {/* <a href="/volunteer">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500  mr-4">
               Volunteer
             </h1>
-          </a>
+          </a> */}
           <a href="/archives">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500  mr-4">
               Archives

@@ -11,21 +11,19 @@ function CFP() {
           height: "40vh",
         }}
       >
-        <h1 className="text-5xl text-black font-extrabold bg-green-400 rounded text-center">
-          Call For Papers
-        </h1>
+        
       </div>
-      <div className="h-auto absolute flex flex-col items-center justify-center">
-        <h1 className="text-red-500 text-6xl mb-10 mt-16">
+      <div className="h-auto relative flex flex-col items-center justify-center px-4">
+        <h1 className="text-red-500 text-6xl mb-10 mt-16 text-center">
           2023 Call for Papers
         </h1>
-        <span className="text-gray-500 text-[23px] leading-[42px] space-x-4 block mb-2 items-center tracking-wide">
+        <span className="text-gray-500 text-2xl leading-8 mb-2 tracking-wide">
           CFP is now Open
         </span>
-        <span className="text-gray-500 text-[23px] leading-[42px] space-x-4 mb-2 flex tracking-wide">
+        <span className="text-gray-500 text-2xl leading-8 mb-2 tracking-wide">
           Applications close 15 August 2023 @ 9pm AEST.
         </span>
-        <span className="text-gray-500 text-[23px] leading-[42px] space-x-4 mb-2 flex tracking-wide">
+        <span className="text-gray-500 text-2xl leading-8 mb-2 tracking-wide">
           Notifications will be sent to Applicants: 30 August - 5 September, 2023
         </span>
         <button className="bg-green-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded mt-4">
