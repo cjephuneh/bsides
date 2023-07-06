@@ -17,7 +17,7 @@ function Home() {
             <span className="text-red">BSIDES</span> <span className="text-white">NAIROBI</span>
           </h1>
         </div>
-        <div className="absolute mb-16 md:mb-[470px] inset-x-0 bottom-8 text-white text-center">
+        <div className="absolute mb-[470px] inset-x-0 bottom-8 text-white text-center">
           <p className="text-2xl">
             Security BSides is a not-for-profit, community-driven event built for and by members of the information security community.
           </p>
