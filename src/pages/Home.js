@@ -14,7 +14,8 @@ function Home() {
         <div className="absolute inset-0 bg-gray-900 opacity-95"></div>
         <div className="absolute inset-0 flex items-center justify-center">
           <h1 className="text-6xl font-bold text-red-500 bg-green-1000 shadow-xl text-center transition-all duration-500">
-            <span className="text-red">BSIDES</span> <span className="text-white">NAIROBI</span>
+            <span className="text-red">BSIDES</span>{' '}
+            <span className="text-white">NAIROBI</span>
           </h1>
         </div>
         <div className="absolute mb-[470px] inset-x-0 bottom-8 text-white text-center">
