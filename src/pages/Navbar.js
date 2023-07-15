@@ -68,11 +68,11 @@ const Navbar = () => {
               Home
             </h1>
           </a>
-          <a href="/about">
+          {/* <a href="/about">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500  mr-4">
               About
             </h1>
-          </a>
+          </a> */}
           <a href="/callforpapers">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500  mr-4">
               Call for Papers
@@ -93,16 +93,16 @@ const Navbar = () => {
               Volunteer
             </h1>
           </a> */}
-          <a href="/archives">
+          {/* <a href="/archives">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500  mr-4">
               Archives
             </h1>
-          </a>
-          <a href="/code-of-conduct">
+          </a> */}
+          {/* <a href="/code-of-conduct">
             <h1 className="block mt-4 lg:inline-block lg:mt-0  text-black hover:text-red-500 ">
               Code of Conduct
             </h1>
-          </a>
+          </a> */}
           
           
         </div>

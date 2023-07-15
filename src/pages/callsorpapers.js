@@ -21,10 +21,10 @@ function CFP() {
           CFP is now Open
         </span>
         <span className="text-gray-500 text-2xl leading-8 mb-2 tracking-wide">
-          Applications close 15 August 2023 @ 9pm AEST.
+          Applications close 7 October 2023 @ 9pm AEST.
         </span>
         <span className="text-gray-500 text-2xl leading-8 mb-2 tracking-wide">
-          Notifications will be sent to Applicants: 30 August - 5 September, 2023
+          Notifications will be sent to Applicants: 18 October - 21 October, 2023
         </span>
         <button className="bg-green-900 hover:bg-gray-800 text-white font-bold py-3 px-6 rounded mt-4">
           <a href="https://www.papercall.io/bsidesnrb23" className="text-gray-100 text-lg leading-none">
